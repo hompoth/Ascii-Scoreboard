@@ -3,4 +3,4 @@ Created an ascii scoreboard as a side project. It creates a canvas element and t
 
 Currently hosted at http://hompoth.com/potw
 
-![alt tag](https://raw.githubusercontent.com/hompoth/Ascii-Scoreboard/master/scoreboard.jpg)
+![alt tag](https://raw.githubusercontent.com/hompoth/Ascii-Scoreboard/master/scoreboard.png)
